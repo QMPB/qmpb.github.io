@@ -7,5 +7,5 @@ categories: jekyll update
 For running the tutorials in this course, you will need to follow this link to the online tutorial course book:
 [QMBP tutorials][QMBP-data]
 
-[QMBP-data]: https://tallywright.github.io/QMPB_bookdown/
+[QMBP-data]: https://qmpb.github.io/tutorial-book/
 
