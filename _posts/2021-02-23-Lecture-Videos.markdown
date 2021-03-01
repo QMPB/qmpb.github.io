@@ -16,6 +16,6 @@ Lecture 3:
 
 {% include vimeoPlayer.html id=515695531 %}
 
-Lecture 4:
+Lecture 5:
 
 {% include vimeoPlayer.html id=518096099 %}
