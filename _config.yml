@@ -11,7 +11,7 @@ email: >- #ignore new line
     Keith.Gardner@NIAB.com
     Tally.Wright@NIAB.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The home page for the 2021 NIAB QMBP course.
+  The home page for the 2021 NIAB QMPB course.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://qmpb.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
