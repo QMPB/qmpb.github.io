@@ -7,5 +7,5 @@ categories: jekyll update
 For running the tutorials in this course, you will need to download the required datasets to your personal computer. 
 To download these datasets click on this link: [QMBP data][QMBP-data]
 
-[QMBP-data]: https://github.com/TallyWright/TallyWright.github.io/raw/master/Data.zip
+[QMBP-data]: https://github.com/qmpb/qmpb.github.io/raw/master/Data.zip
 
