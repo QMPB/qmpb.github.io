@@ -10,7 +10,7 @@ This is the 7th time in which I have taught on the NIAB QMPB course. Like so man
 
 Over the years, the course has also benefitted from the input of several guest lecturers, as well as assistance in lecturing and demonstrating from colleagues in the John Bingham Laboratory at NIAB. In particular, we would like to recognise the enthusiastic contributions of our former NIAB colleague, Greg Mellers, who sadly passed away in late 2019.
 
-![](image/Greg.png)
+![](/image/Greg.png)
 
 All the course administration has been handled by NIAB’s Mary MacPhee. I would also like to thank Tally Wright, Nick Fradgley, Camila Zanella, Joachim Nwezeobi and Yeorgia Argirou for their roles in preparing and teaching the course and Joseph Amosu for managing the IT support.
 
