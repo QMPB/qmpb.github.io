@@ -7,15 +7,3 @@ categories: jekyll update
 Lecture 1:
 
 {% include vimeoPlayer.html id=515695531 %}
-
-Lecture 2:
-
-{% include vimeoPlayer.html id=515695531 %}
-
-Lecture 3:
-
-{% include vimeoPlayer.html id=515695531 %}
-
-Lecture 5:
-
-{% include vimeoPlayer.html id=518096099 %}
