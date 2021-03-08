@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lecture Videos"
+title:  "Tutorial Videos"
 date:   2021-02-23 12:16:40 +0000
 categories: jekyll update
 ---
