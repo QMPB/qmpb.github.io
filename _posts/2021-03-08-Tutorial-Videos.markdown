@@ -34,7 +34,7 @@ Part 3
 
 {% include vimeoPlayer.html id=521542329 %}
 
-**Day 3 (Tuesday 10.03.2021):**
+**Day 3 (Wednesday 10.03.2021):**
 
 Part 1
 
