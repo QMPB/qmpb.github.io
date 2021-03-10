@@ -33,3 +33,15 @@ Part 2
 Part 3
 
 {% include vimeoPlayer.html id=521542329 %}
+
+**Day 3 (Tuesday 10.03.2021):**
+
+Part 1
+
+
+{% include vimeoPlayer.html id=521982811 %}
+
+
+Part 2
+
+{% include vimeoPlayer.html id=521985158 %}
