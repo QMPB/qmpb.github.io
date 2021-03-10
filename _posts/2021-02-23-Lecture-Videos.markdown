@@ -28,6 +28,6 @@ Lecture 6 (Mixed Model):
 
 {% include vimeoPlayer.html id=521306805 %}
 
-Lecture 7 (Trial Design and analysis):
+Lecture 7 (Trial Design and analysis - second lecture):
 
 {% include vimeoPlayer.html id=521757680 %}
