@@ -31,3 +31,7 @@ Lecture 6 (Mixed Model):
 Lecture 7 (Trial Design and analysis - second lecture):
 
 {% include vimeoPlayer.html id=521757680 %}
+
+Lecture 8 (Population Genetics - Part 1):
+
+{% include vimeoPlayer.html id=522232734 %}
