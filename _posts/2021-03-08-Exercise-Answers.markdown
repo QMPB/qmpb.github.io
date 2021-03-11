@@ -12,3 +12,7 @@ Chapter 4 (Tuesday 09.03.2021):
 
 Answers can be found [here.](/documents/Chapter_4_exercise_answers.pdf)
 
+Chapter 5 and 6 (Wednesday 10.03.2021):
+
+Answers can be found [here.](/documents/Chapter_5_6_exercise_answers.pdf)
+
