@@ -45,3 +45,15 @@ Part 1
 Part 2
 
 {% include vimeoPlayer.html id=521985158 %}
+
+**Day 4 (Thursday 11.03.2021):**
+
+Part 1
+
+
+{% include vimeoPlayer.html id=522480196 %}
+
+
+Part 2
+
+{% include vimeoPlayer.html id=522481513 %}

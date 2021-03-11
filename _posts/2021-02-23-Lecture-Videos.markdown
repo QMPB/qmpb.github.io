@@ -35,3 +35,7 @@ Lecture 7 (Trial Design and analysis - second lecture):
 Lecture 8 (Population Genetics - Part 1):
 
 {% include vimeoPlayer.html id=522232734 %}
+
+Lecture 9 (Population Genetics - Part 2):
+
+{% include vimeoPlayer.html id=522357104 %}
