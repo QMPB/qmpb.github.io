@@ -57,3 +57,18 @@ Part 1
 Part 2
 
 {% include vimeoPlayer.html id=522481513 %}
+
+**Day 5 (Friday 12.03.2021):**
+
+Part 1
+
+{% include vimeoPlayer.html id=522920360 %}
+
+
+Part 2
+
+{% include vimeoPlayer.html id=522923151 %}
+
+Part 3
+
+{% include vimeoPlayer.html id=522924355 %}
