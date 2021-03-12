@@ -16,3 +16,6 @@ Chapter 5 and 6 (Wednesday 10.03.2021):
 
 Answers can be found [here.](/documents/Chapter_5_6_exercise_answers.pdf)
 
+Chapter 7 and 9 (Friday 12.03.2021):
+
+Answers can be found [here.](/documents/Chapter_7_9_exercise_answers.pdf)
