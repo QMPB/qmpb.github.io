@@ -39,3 +39,11 @@ Lecture 8 (Population Genetics - Part 1):
 Lecture 9 (Population Genetics - Part 2):
 
 {% include vimeoPlayer.html id=522357104 %}
+
+Lecture 10 (Association Mapping - Part 1):
+
+{% include vimeoPlayer.html id=522797576 %}
+
+Lecture 11 (Association Mapping - Part 2):
+
+{% include vimeoPlayer.html id=522800130 %}
