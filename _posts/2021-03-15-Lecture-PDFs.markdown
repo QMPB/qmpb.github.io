@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Data Repository"
-date:   2021-01-05 09:16:40 +0000
+title:  "Lecture PDFs"
+date:   2021-03-15 09:16:40 +0000
 categories: jekyll update
 ---
 To download a zip file containing the lecture PDFs click on this link: [QMBP pdf][QMBP-pdf]
