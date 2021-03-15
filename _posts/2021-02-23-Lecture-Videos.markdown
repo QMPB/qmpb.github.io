@@ -47,3 +47,10 @@ Lecture 10 (Association Mapping - Part 1):
 Lecture 11 (Association Mapping - Part 2):
 
 {% include vimeoPlayer.html id=522800130 %}
+
+Lecture 12 (Mapping Markers):
+
+{% include vimeoPlayer.html id=523674494 %}
+
+
+
