@@ -52,5 +52,11 @@ Lecture 12 (Mapping Markers):
 
 {% include vimeoPlayer.html id=523674494 %}
 
+Lecture 13 (Intro to Bioinformatics):
+
+{% include vimeoPlayer.html id=523946759 %}
+
+
+
 
 

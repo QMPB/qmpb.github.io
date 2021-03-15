@@ -72,3 +72,15 @@ Part 2
 Part 3
 
 {% include vimeoPlayer.html id=522924355 %}
+
+**Day 6  (Monday 15.03.2021):**
+
+Part 1
+
+{% include vimeoPlayer.html id=523909900 %}
+
+
+Part 2
+
+{% include vimeoPlayer.html id=523912838 %}
+
