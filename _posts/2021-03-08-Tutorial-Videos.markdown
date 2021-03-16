@@ -84,3 +84,8 @@ Part 2
 
 {% include vimeoPlayer.html id=523912838 %}
 
+**Day 7  (Tuesday 16.03.2021):**
+
+Part 1
+
+{% include vimeoPlayer.html id=524353177 %}
