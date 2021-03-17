@@ -89,3 +89,17 @@ Part 2
 Part 1
 
 {% include vimeoPlayer.html id=524353177 %}
+
+**Day 8 (Wednesday 17/03/2021):**
+
+Part 1
+
+{% include vimeoPlayer.html id=525147401 %}
+
+Part 2
+
+{% include vimeoPlayer.html id=525173069 %}
+
+Part 3
+
+{% include vimeoPlayer.html id=525148510 %}
