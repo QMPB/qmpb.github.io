@@ -56,6 +56,10 @@ Lecture 13 (Intro to Bioinformatics):
 
 {% include vimeoPlayer.html id=523946759 %}
 
+Lecture 14 (Quantitative Genetics Part 1):
+
+{% include vimeoPlayer.html id=524798329 %}
+
 
 
 
