@@ -60,6 +60,9 @@ Lecture 14 (Quantitative Genetics Part 1):
 
 {% include vimeoPlayer.html id=524798329 %}
 
+Lecture 15 (Quantitative Genetics Part 2):
+
+{% include vimeoPlayer.html id=524909585 %}
 
 
 
