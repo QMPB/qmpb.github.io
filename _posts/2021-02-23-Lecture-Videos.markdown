@@ -64,6 +64,8 @@ Lecture 15 (Quantitative Genetics Part 2):
 
 {% include vimeoPlayer.html id=524909585 %}
 
+Lecture 16 (Quantitative Genetics Part 3): 
 
+{% include vimeoPlayer.html id=524956009 %}
 
 
