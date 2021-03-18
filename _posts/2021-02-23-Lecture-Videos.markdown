@@ -72,4 +72,7 @@ Lecture 17 (Genomic Prediction Part 1):
 
 {% include vimeoPlayer.html id=525469572 %}
 
+Lecture 18 (Genomic Prediction Part 2): 
+
+{% include vimeoPlayer.html id=525613277 %}
 
