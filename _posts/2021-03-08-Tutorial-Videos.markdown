@@ -103,3 +103,14 @@ Part 2
 Part 3
 
 {% include vimeoPlayer.html id=525148510 %}
+
+**Day 9 (Thursday 18/03/2021):**
+
+Part 1
+
+{% include vimeoPlayer.html id=525721284 %}
+
+Part 2
+
+{% include vimeoPlayer.html id=525724570 %}
+
