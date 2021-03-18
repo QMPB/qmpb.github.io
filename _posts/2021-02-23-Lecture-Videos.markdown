@@ -68,4 +68,8 @@ Lecture 16 (Quantitative Genetics Part 3):
 
 {% include vimeoPlayer.html id=524956009 %}
 
+Lecture 17 (Genomic Prediction Part 1): 
+
+{% include vimeoPlayer.html id=525469572 %}
+
 
