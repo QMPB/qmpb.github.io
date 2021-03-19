@@ -52,27 +52,31 @@ Lecture 12 (Mapping Markers):
 
 {% include vimeoPlayer.html id=523674494 %}
 
-Lecture 13 (Intro to Bioinformatics):
+Lecture 13 (QTL mapping):
+
+{% include vimeoPlayer.html id=523811199 %}
+
+Lecture 14 (Intro to Bioinformatics):
 
 {% include vimeoPlayer.html id=523946759 %}
 
-Lecture 14 (Quantitative Genetics Part 1):
+Lecture 15 (Quantitative Genetics Part 1):
 
 {% include vimeoPlayer.html id=524798329 %}
 
-Lecture 15 (Quantitative Genetics Part 2):
+Lecture 16 (Quantitative Genetics Part 2):
 
 {% include vimeoPlayer.html id=524909585 %}
 
-Lecture 16 (Quantitative Genetics Part 3): 
+Lecture 17 (Quantitative Genetics Part 3): 
 
 {% include vimeoPlayer.html id=524956009 %}
 
-Lecture 17 (Genomic Prediction Part 1): 
+Lecture 18 (Genomic Prediction Part 1): 
 
 {% include vimeoPlayer.html id=525469572 %}
 
-Lecture 18 (Genomic Prediction Part 2): 
+Lecture 19 (Genomic Prediction Part 2): 
 
 {% include vimeoPlayer.html id=525613277 %}
 
