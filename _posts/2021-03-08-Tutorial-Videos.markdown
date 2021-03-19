@@ -114,3 +114,13 @@ Part 2
 
 {% include vimeoPlayer.html id=525724570 %}
 
+**Day 10 (Friday 19/03/2021):**
+
+Part 1
+
+{% include vimeoPlayer.html id=526154766 %}
+
+
+
+
+
