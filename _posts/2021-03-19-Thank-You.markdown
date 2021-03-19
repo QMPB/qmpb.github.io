@@ -7,4 +7,4 @@ categories: jekyll update
 
 Thank you for your attendance and all the best for the future! 
 
-![](/image/class_photo.png)
+![](/image/class_photo.PNG)
