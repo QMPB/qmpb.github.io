@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Thank you"
+date:   2021-03-19 12:16:40 +0000
+categories: jekyll update
+---
+
+Thank you for your attendance and all the best for the future! 
+
+![](/image/class_photo.png)
