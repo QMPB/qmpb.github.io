@@ -80,3 +80,7 @@ Lecture 19 (Genomic Prediction Part 2):
 
 {% include vimeoPlayer.html id=525613277 %}
 
+Lecture 20 (Modern Breeding): 
+
+{% include vimeoPlayer.html id=526187720 %}
+
